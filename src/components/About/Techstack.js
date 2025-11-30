@@ -120,7 +120,7 @@ function Techstack() {
       </h1>
       <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
         <Col xs={4} md={2} className="tech-icons">
-          <img src={sts} height={120} width={120}></img>
+          <img src={sts} height={120} width={120} alt="logo"></img>
           <h2 style={{ marginTop: "-14px" }}>STS</h2>
         </Col>
         <Col xs={4} md={2} className="tech-icons">
@@ -140,7 +140,7 @@ function Techstack() {
           <h2>Amazon AWS</h2>
         </Col>
         <Col xs={4} md={2} className="tech-icons">
-          <img src={antigravity} height={120} width={120}></img>
+          <img src={antigravity} height={120} width={120} alt="logo"></img>
           <h2 style={{ marginTop: "-14px" }}>Google Antigravity</h2>
         </Col>
         <Col xs={4} md={2} className="tech-icons">

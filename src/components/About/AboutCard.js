@@ -8,10 +8,10 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Deepansh shakya </span>
+            Hi Everyone, I am <span className="purple">Deepansh Shakya </span>
             from <span className="purple"> New Delhi, India. </span>
-            I am currently in the final year of my Undergraduate. I have pursued my <span className="purple">(B.tech) in
-              Computer Science and Engineering</span> with Artificial Intelligence and Machine Learning.
+            I have completed my Undergraduate Recently. I have pursued my <span className="purple">(B.tech) in
+              Computer Science and Engineering</span> with Artificial Intelligence and Machine Learning from Sharda University.
             <br />
             <br />
             My Life Grades :-
